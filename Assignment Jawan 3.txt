@@ -1,0 +1,40 @@
+void main () {
+
+
+
+// Q2.)
+  //Answer, 
+
+    var list1 = [1,2,3,4,5,6,7];
+   list1.insertAll(5,[3,5,6,7,9,10]);
+    print(list1);
+  
+  
+   
+  //Q5.)
+  //Answer,
+  
+  var num = 7;
+  for(var i=1; i<=15; i++){
+    print(i*num);
+  }
+  
+  
+  //Q6.)
+  //Answer,
+  
+ var fruit = ["apple","banana","mango","orange","stawberry"];
+  for(var a in fruit){
+  print(a);  
+  }
+ 
+
+  
+ // Q7).
+ // Answer,
+  
+  var int = 5;
+  for(var a=1; a<=20; a++){
+    print(a*int);
+  }
+  }
